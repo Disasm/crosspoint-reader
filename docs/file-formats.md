@@ -105,6 +105,14 @@ if (parsedSize != fileSize) {
 
 ## `section.bin`
 
+### Version 26
+
+- Bumped from 25: `<pre>` block newlines now emit forced line breaks (fixes code block rendering).
+
+### Version 25
+
+- Bumped from 24: (internal layout change, no structural binary format change).
+
 ### Version 24
 
 ImHex Pattern:
